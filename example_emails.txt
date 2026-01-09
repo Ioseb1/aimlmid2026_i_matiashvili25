@@ -1,0 +1,68 @@
+========================================
+EXAMPLE SPAM EMAIL
+========================================
+
+Subject: URGENT! CLAIM YOUR $1,000,000 PRIZE NOW!
+
+CONGRATULATIONS WINNER!
+
+You have been SELECTED to receive $1,000,000 CASH PRIZE!
+This is a LIMITED TIME OFFER that expires TODAY!
+
+CLICK HERE NOW: www.freemoney.com/claim
+Visit https://prizewinner.com/urgent to claim your FREE money!
+
+ACT FAST! This offer is GUARANTEED but LIMITED TIME!
+No obligation, RISK FREE! Click www.claimprize.net NOW!
+
+Don't miss this AMAZING DEAL! Order now and SAVE BIG!
+
+
+Explanation:
+This email is designed to be classified as spam because it contains:
+1. Multiple spam trigger words: "URGENT", "CLAIM", "PRIZE", "WINNER", "CONGRATULATIONS", 
+   "FREE", "GUARANTEED", "LIMITED TIME", "ACT FAST", "DEAL", "SAVE"
+2. High spam_word_count: Contains many common spam words
+3. Multiple links: Three different URLs (www.freemoney.com, prizewinner.com, claimprize.net)
+4. Excessive capital words: "URGENT", "CLAIM", "PRIZE", "NOW", "CONGRATULATIONS", 
+   "WINNER", "SELECTED", "CASH", "PRIZE", "LIMITED", "TIME", "OFFER", "TODAY", 
+   "CLICK", "HERE", "NOW", "FREE", "MONEY", "ACT", "FAST", "GUARANTEED", "RISK", 
+   "FREE", "NOW", "DEAL", "ORDER", "NOW", "SAVE", "BIG"
+5. Urgency tactics: Multiple phrases creating false urgency
+6. Financial promises: Large cash amounts and free money claims
+
+
+========================================
+EXAMPLE LEGITIMATE EMAIL
+========================================
+
+Subject: Meeting Reminder - Project Discussion
+
+Hi Team,
+
+This is a reminder about our scheduled meeting tomorrow at 2:00 PM 
+to discuss the project progress and next steps.
+
+Please prepare the following:
+- Status update on your assigned tasks
+- Any questions or concerns you'd like to address
+- Suggestions for improvement
+
+The meeting will be held in Conference Room B. If you have any 
+questions, please let me know.
+
+Best regards,
+John Smith
+Project Manager
+
+
+Explanation:
+This email is designed to be classified as legitimate because it:
+1. No spam words: Contains professional, normal business language without 
+   common spam trigger words
+2. Low spam_word_count: Zero spam-related words
+3. No links: Contains no URLs or hyperlinks
+4. Minimal capital words: Only proper nouns and standard capitalization
+5. Professional tone: Uses appropriate business communication style
+6. Normal word count: Reasonable length for a business email
+7. Legitimate purpose: Clear, professional communication about work matters
